@@ -1,0 +1,28 @@
+
+
+* MidiIO
+- Left card make holes by closer 1mm
+
+* Core
+- Audio hole too low. Needs to go up by half. 0.5mm wider
+- USB hole too left. Needs to move right by 2mm and expand 1mm in all directions
+
+* Display
+- Mount 35mm
+- Angle pins face right. Use socket for spacing while soldering.
+
+* CS
+- 30mm (minimum) + board + upper 10mm plastic non-threaded spacer
+
+* Case
+- Sides need to go up by 2mm
+- Widen slot width on top and bottom (both front and back)
+- Sides need 0.5mm
+
+* Top panel
+- Need longer fixing screws. 20mm?
+- Datawheel hole needs to be wider
+
+* All cards
+- Stand on washers 
+- Epoxy washers and lower standoffs to bottom panel. Prevents double slip.
